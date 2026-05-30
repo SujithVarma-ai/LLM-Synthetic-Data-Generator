@@ -50,7 +50,9 @@ ollama run llama3.2
 ```bash
 python app.py
 ```
-
+```bash
+python generator.py
+```
 Launch the Gradio interface and generate synthetic datasets.
 
 # 📸 Application Screenshot
