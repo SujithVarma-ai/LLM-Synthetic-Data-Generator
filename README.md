@@ -4,7 +4,11 @@ Generate high-quality synthetic datasets using local Large Language Models (LLMs
 
 ## 📌 Overview
 
-This project generates synthetic datasets such as customer reviews and sentiment labels using local LLMs like Llama 3.2. The generated data is stored in a structured format using Pandas DataFrames and can be exported as CSV files for machine learning, data analysis, and experimentation.
+LLM Synthetic Data Generator is a Python-based application that generates high-quality synthetic datasets using locally hosted Large Language Models through Ollama
+The application supports multiple open-source models including Llama 3.2, Gemma 3, and Qwen 2.5, allowing users to generate realistic customer reviews with sentiment labels. Generated data is displayed through an interactive Gradio interface and can be exported for machine learning, NLP, and data analysis tasks.
+
+The project demonstrates local LLM inference, prompt engineering, synthetic data generation, dataset creation, and interactive AI application development.
+
 
 ## ✨ Features
 
@@ -15,6 +19,9 @@ This project generates synthetic datasets such as customer reviews and sentiment
 * Interactive Gradio web interface
 * Configurable number of records
 * Support for multiple LLMs
+    Llama 3.2
+    Gemma 3
+    Qwen 2.5
 
 ## 🛠️ Tech Stack
 
@@ -25,8 +32,6 @@ This project generates synthetic datasets such as customer reviews and sentiment
 * Gradio
 
 ## ⚙️ Installation
-
-Clone the repository:
 
 Install dependencies:
 
@@ -47,6 +52,11 @@ python app.py
 ```
 
 Launch the Gradio interface and generate synthetic datasets.
+
+# 📸 Application Screenshot
+
+![App Screenshot](https://github.com/SujithVarma-ai/LLM-Synthetic-Data-Generator/blob/main/Screenshot%202026-05-30%20075806.png)
+![App Screenshot](https://github.com/SujithVarma-ai/LLM-Synthetic-Data-Generator/blob/main/Screenshot%202026-05-30%20075920.png)
 
 ## 📊 Sample Output
 
