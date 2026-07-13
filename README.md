@@ -1,3 +1,9 @@
+![Python](https://img.shields.io/badge/Python-3.10+-blue?style=for-the-badge&logo=python)
+![Ollama](https://img.shields.io/badge/Ollama-Local%20LLM-black?style=for-the-badge)
+![Llama](https://img.shields.io/badge/Llama-3.2-orange?style=for-the-badge)
+![Gradio](https://img.shields.io/badge/Gradio-UI-orange?style=for-the-badge&logo=gradio)
+![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
+
 # 🚀 LLM Synthetic Data Generator
 
 Generate high-quality synthetic datasets using local Large Language Models (LLMs) powered by Ollama.
