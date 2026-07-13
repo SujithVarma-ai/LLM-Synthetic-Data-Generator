@@ -24,10 +24,12 @@ The project demonstrates local LLM inference, prompt engineering, synthetic data
 * Export datasets to CSV
 * Interactive Gradio web interface
 * Configurable number of records
-* Support for multiple LLMs
-    Llama 3.2
-    Gemma 3
-    Qwen 2.5
+
+### Supported Models
+
+- Llama 3.2
+- Gemma 3
+- Qwen 2.5
 
 ## 🛠️ Tech Stack
 
